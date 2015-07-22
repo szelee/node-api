@@ -1,0 +1,10 @@
+{
+  "name": "api-projects",
+  "version": "0.0.0",
+  "description": "api-projects",
+  "main": "server.js",
+  "author": {
+    "name": "SzeLee",
+    "email": ""
+  }
+}
